@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### My name is Santiago Juarez Badillo Chavez.
-I'm a Software Engineer based on México
+I'm a Software Engineer based in México
 
 - 🌱 I’m currently learning React, Flutter and Firebase.
 
