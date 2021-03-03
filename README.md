@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Santt99/santt99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Santiago Juarez Badillo Chavez.
+I'm a Software Engineer based on México
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning React, Flutter and Firebase.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ I love ✨ Python ✨ for Back-end Development, ✨ React.js ✨ for Web Front-end Development
+
+* 📫 How to reach me:
+  * [LinkedIn](https://www.linkedin.com/in/sjubach/)
+  * [Twitter](https://twitter.com/SJUBACH_)
+  
+ <p align="center">
+  <a href="https://twitter.com/SJUBACH_"><img src="https://img.shields.io/twitter/follow/alanmn88?label=Twitter&style=social" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/sjubach/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
