@@ -12,6 +12,6 @@ I'm a Software Engineer based in México
   * [Twitter](https://twitter.com/SJUBACH_)
   
  <p align="center">
-  <a href="https://twitter.com/SJUBACH_"><img src="https://img.shields.io/twitter/follow/alanmn88?label=Twitter&style=social" alt="Twitter"></a>
+  <a href="https://twitter.com/SJUBACH_"><img src="https://img.shields.io/twitter/follow/SJUBACH_?label=Twitter&style=social" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/sjubach/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
